@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b60f3065cfd6a7d4e9dc4caff3cca3f8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalTex: {fileID: 2800000, guid: d33ec5cd516621c479a296fe283082c9, type: 3}
+  - _DistortionTex: {fileID: 2800000, guid: 5152b9b82bbb8134184b0848ebd91550, type: 3}
+  - _DisplacementTex: {fileID: 2800000, guid: 12fc4c535d645044c884c6ca8ba95faf, type: 3}
+  - _FoamTex: {fileID: 2800000, guid: 12fc4c535d645044c884c6ca8ba95faf, type: 3}
+  - _FoamDistortionTex: {fileID: 2800000, guid: edaf29439d4ae8d458b146cbc4cd52e6, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
